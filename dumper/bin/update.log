@@ -1,0 +1,347 @@
+[07:56:11] INFO file: C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/bin/win64/client.dll, 39120536 bytes
+[07:56:11] INFO schema source: C:\Users\Subhan\Desktop\Cs2Cheat\dumper\bin\schema_client.json
+[07:56:11] INFO resolved 43/43 offsets
+[07:56:11] INFO new dwCSGOInput = 0x2569E30 (sig)
+[07:56:11] INFO new dwEntityList = 0x2709010 (sig)
+[07:56:11] INFO new dwGameEntitySystem = 0x2709010 (sig)
+[07:56:11] INFO new dwGameEntitySystem_highestEntityIndex = 0x2120 (sig)
+[07:56:11] INFO new dwGameRules = 0x25537E8 (sig)
+[07:56:11] INFO new dwGlobalVars = 0x2221AB8 (sig)
+[07:56:11] INFO new dwLocalPlayerController = 0x252B0C8 (sig)
+[07:56:11] INFO new dwPlantedC4 = 0x24B9B90 (sig)
+[07:56:11] INFO new dwPrediction = 0x2553C40 (sig)
+[07:56:11] INFO new dwSensitivity = 0x2551038 (sig)
+[07:56:11] INFO new dwViewMatrix = 0x2559640 (sig)
+[07:56:11] INFO new dwWeaponC4 = 0x24B83B0 (sig)
+[07:56:11] INFO new dwViewRender = 0x255A008 (sig)
+[07:56:11] INFO new dwViewAngles = 0x256A4B8 (sig+derived)
+[07:56:11] INFO new dwLocalPlayerPawn = 0x2553D38 (sig+derived)
+[07:56:11] INFO new m_iHealth = 0x34C (netvar)
+[07:56:11] INFO new m_iTeamNum = 0x3E7 (netvar)
+[07:56:11] INFO new m_lifeState = 0x354 (netvar)
+[07:56:11] INFO new m_fFlags = 0x3F4 (netvar)
+[07:56:11] INFO new m_vecOrigin = 0x80 (netvar)
+[07:56:11] INFO new m_vecViewOffset = 0xF60 (netvar)
+[07:56:11] INFO new m_angEyeAngles = 0x3630 (netvar)
+[07:56:11] INFO new m_hPlayerPawn = 0x92C (netvar)
+[07:56:11] INFO new m_hActiveWeapon = 0x60 (netvar)
+[07:56:11] INFO new m_iItemDefinitionIndex = 0x1BA (netvar)
+[07:56:11] INFO new m_iShotsFired = 0x1EE8 (netvar)
+[07:56:11] INFO new m_bDormant = 0x103 (netvar)
+[07:56:11] INFO new m_pGameSceneNode = 0x330 (netvar)
+[07:56:11] INFO new m_vecAbsOrigin = 0xC8 (netvar)
+[07:56:11] INFO new m_iCompetitiveRanking = 0x8A0 (netvar)
+[07:56:11] INFO new m_iCompetitiveWins = 0x8A4 (netvar)
+[07:56:11] INFO new m_flFlashDuration = 0x1510 (netvar)
+[07:56:11] INFO new m_flFlashMaxAlpha = 0x150C (netvar)
+[07:56:11] INFO new m_szName = 0x720 (netvar)
+[07:56:11] INFO new m_iCrosshairId = 0x370C (netvar)
+[07:56:11] INFO new m_entitySpottedState = 0x1EB8 (netvar)
+[07:56:11] INFO new m_pAimPunchServices = 0x1598 (netvar)
+[07:56:11] INFO new dwSensitivity_sensitivity = 0x58 (constant)
+[07:56:11] INFO new m_modelState = 0x140 (constant)
+[07:56:11] INFO new m_aimPunchAngle = 0x1598 (netvar+chain)
+[07:56:11] INFO new m_bSpotted = 0x1EB8 (netvar+chain)
+[07:56:11] INFO new m_bSpottedByMask = 0x1EB8 (netvar+chain)
+[07:56:11] INFO new m_boneArray = 0x330 (netvar+chain)
+[07:56:11] INFO version 1, 43 changed offsets
+[07:56:11] INFO wrote bin/config.json
+[07:56:11] INFO wrote bin/offsets.ini
+[07:56:11] INFO file: C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/bin/win64/client.dll, 39120536 bytes
+[07:56:11] INFO schema source: C:\Users\Subhan\Desktop\Cs2Cheat\dumper\bin\schema_client.json
+[07:56:12] INFO resolved 43/43 offsets
+[07:56:12] INFO up to date (game_build 99a6720b29d8b477...), config untouched
+[07:56:36] INFO file: C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/bin/win64/client.dll, 39120536 bytes
+[07:56:36] INFO schema source: C:\Users\Subhan\Desktop\Cs2Cheat\dumper\bin\schema_client.json
+[07:56:36] INFO resolved 44/44 offsets
+[07:56:36] INFO new dwCSGOInput = 0x2569E30 (sig)
+[07:56:36] INFO new dwEntityList = 0x2709010 (sig)
+[07:56:36] INFO new dwGameEntitySystem = 0x2709010 (sig)
+[07:56:36] INFO new dwGameEntitySystem_highestEntityIndex = 0x2120 (sig)
+[07:56:36] INFO new dwGameRules = 0x25537E8 (sig)
+[07:56:36] INFO new dwGlobalVars = 0x2221AB8 (sig)
+[07:56:36] INFO new dwGlowManager = 0x2550500 (sig)
+[07:56:36] INFO new dwLocalPlayerController = 0x252B0C8 (sig)
+[07:56:36] INFO new dwPlantedC4 = 0x24B9B90 (sig)
+[07:56:36] INFO new dwPrediction = 0x2553C40 (sig)
+[07:56:36] INFO new dwSensitivity = 0x2551038 (sig)
+[07:56:36] INFO new dwViewMatrix = 0x2559640 (sig)
+[07:56:36] INFO new dwWeaponC4 = 0x24B83B0 (sig)
+[07:56:36] INFO new dwViewRender = 0x255A008 (sig)
+[07:56:36] INFO new dwViewAngles = 0x256A4B8 (sig+derived)
+[07:56:36] INFO new dwLocalPlayerPawn = 0x2553D38 (sig+derived)
+[07:56:36] INFO new m_iHealth = 0x34C (netvar)
+[07:56:36] INFO new m_iTeamNum = 0x3E7 (netvar)
+[07:56:36] INFO new m_lifeState = 0x354 (netvar)
+[07:56:36] INFO new m_fFlags = 0x3F4 (netvar)
+[07:56:36] INFO new m_vecOrigin = 0x80 (netvar)
+[07:56:36] INFO new m_vecViewOffset = 0xF60 (netvar)
+[07:56:36] INFO new m_angEyeAngles = 0x3630 (netvar)
+[07:56:36] INFO new m_hPlayerPawn = 0x92C (netvar)
+[07:56:36] INFO new m_hActiveWeapon = 0x60 (netvar)
+[07:56:36] INFO new m_iItemDefinitionIndex = 0x1BA (netvar)
+[07:56:36] INFO new m_iShotsFired = 0x1EE8 (netvar)
+[07:56:36] INFO new m_bDormant = 0x103 (netvar)
+[07:56:36] INFO new m_pGameSceneNode = 0x330 (netvar)
+[07:56:36] INFO new m_vecAbsOrigin = 0xC8 (netvar)
+[07:56:36] INFO new m_iCompetitiveRanking = 0x8A0 (netvar)
+[07:56:36] INFO new m_iCompetitiveWins = 0x8A4 (netvar)
+[07:56:36] INFO new m_flFlashDuration = 0x1510 (netvar)
+[07:56:36] INFO new m_flFlashMaxAlpha = 0x150C (netvar)
+[07:56:36] INFO new m_szName = 0x720 (netvar)
+[07:56:36] INFO new m_iCrosshairId = 0x370C (netvar)
+[07:56:36] INFO new m_entitySpottedState = 0x1EB8 (netvar)
+[07:56:36] INFO new m_pAimPunchServices = 0x1598 (netvar)
+[07:56:36] INFO new dwSensitivity_sensitivity = 0x58 (constant)
+[07:56:36] INFO new m_modelState = 0x140 (constant)
+[07:56:36] INFO new m_aimPunchAngle = 0x1598 (netvar+chain)
+[07:56:36] INFO new m_bSpotted = 0x1EB8 (netvar+chain)
+[07:56:36] INFO new m_bSpottedByMask = 0x1EB8 (netvar+chain)
+[07:56:36] INFO new m_boneArray = 0x330 (netvar+chain)
+[07:56:36] INFO version 1, 44 changed offsets
+[07:56:36] INFO wrote bin/config.json
+[07:56:36] INFO wrote bin/offsets.ini
+[08:06:34] ERROR --dll is required for file/sig source
+[08:07:36] ERROR --dll is required for file/sig source
+[08:08:11] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:08:11] INFO live: image @ 0x140733300211712, 43556864 bytes
+[08:08:11] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:08:12] INFO live schema: 715 classes
+[08:08:12] INFO schema source: live schema system
+[08:08:13] INFO resolved 44/44 offsets
+[08:08:13] INFO changed m_hPlayerPawn: 0x92C -> 0x8EC (netvar, conf 1.00)
+[08:08:13] INFO changed m_bDormant: 0x103 -> 0xE7 (netvar, conf 1.00)
+[08:08:13] INFO changed m_iCompetitiveRanking: 0x8A0 -> 0x860 (netvar, conf 1.00)
+[08:08:13] INFO changed m_iCompetitiveWins: 0x8A4 -> 0x864 (netvar, conf 1.00)
+[08:08:13] INFO version 2, 4 changed offsets
+[08:08:13] INFO wrote bin/config.json
+[08:08:13] INFO wrote binoffsets.ini
+[08:09:42] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:09:42] INFO live: image @ 0x140733300211712, 43556864 bytes
+[08:09:42] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:09:42] DEBUG schema scope: "schemasystem.dll"
+[08:09:42] DEBUG schema scope: "resourcesystem.dll"
+[08:09:42] DEBUG schema scope: "rendersystemdx11.dll"
+[08:09:42] DEBUG schema scope: "engine2.dll"
+[08:09:42] DEBUG schema scope: "materialsystem2.dll"
+[08:09:42] DEBUG schema scope: "networksystem.dll"
+[08:09:42] DEBUG schema scope: "animationsystem.dll"
+[08:09:42] DEBUG schema scope: "vphysics2.dll"
+[08:09:42] DEBUG schema scope: "meshsystem.dll"
+[08:09:42] DEBUG schema scope: "soundsystem.dll"
+[08:09:42] DEBUG schema scope: "steamaudio.dll"
+[08:09:42] DEBUG schema scope: "scenesystem.dll"
+[08:09:42] DEBUG schema scope: "worldrenderer.dll"
+[08:09:42] DEBUG schema scope: "pulse_system.dll"
+[08:09:42] DEBUG schema scope: "particles.dll"
+[08:09:42] DEBUG schema scope: "panorama.dll"
+[08:09:42] DEBUG schema scope: "server.dll"
+[08:09:42] DEBUG schema scope: "client.dll"
+[08:09:42] DEBUG schema scope: "host.dll"
+[08:09:42] DEBUG schema scope: "scenefilecache.dll"
+[08:09:42] INFO live schema: 335 classes
+[08:09:42] INFO schema source: live schema system
+[08:09:42] INFO resolved 44/44 offsets
+[08:09:42] INFO changed m_hPlayerPawn: 0x8EC -> 0x92C (netvar, conf 1.00)
+[08:09:42] INFO changed m_bDormant: 0xE7 -> 0x103 (netvar, conf 1.00)
+[08:09:42] INFO changed m_iCompetitiveRanking: 0x860 -> 0x8A0 (netvar, conf 1.00)
+[08:09:42] INFO changed m_iCompetitiveWins: 0x864 -> 0x8A4 (netvar, conf 1.00)
+[08:09:42] INFO version 3, 4 changed offsets
+[08:09:42] INFO wrote bin/config.json
+[08:09:46] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:09:46] INFO live: image @ 0x140733300211712, 43556864 bytes
+[08:09:46] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:09:46] INFO live schema: 335 classes
+[08:09:46] INFO schema source: live schema system
+[08:09:47] INFO resolved 44/44 offsets
+[08:09:47] INFO version 4, 0 changed offsets
+[08:09:47] INFO wrote bin/config.json
+[08:10:24] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:10:24] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:10:24] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:10:24] INFO live schema: 364 classes
+[08:10:24] INFO schema source: live schema system
+[08:10:25] INFO resolved 45/45 offsets
+[08:10:25] INFO new m_vOldOrigin = 0x14A4 (netvar)
+[08:10:25] INFO version 5, 1 changed offsets
+[08:10:25] INFO wrote bin/config.json
+[08:10:30] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:10:30] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:10:30] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:10:30] INFO live schema: 364 classes
+[08:10:30] INFO schema source: live schema system
+[08:10:31] INFO resolved 45/45 offsets
+[08:10:31] INFO new dwCSGOInput = 0x2569E30 (sig)
+[08:10:31] INFO new dwEntityList = 0x2709010 (sig)
+[08:10:31] INFO new dwGameEntitySystem = 0x2709010 (sig)
+[08:10:31] INFO new dwGameEntitySystem_highestEntityIndex = 0x2120 (sig)
+[08:10:31] INFO new dwGameRules = 0x25537E8 (sig)
+[08:10:31] INFO new dwGlobalVars = 0x2221AB8 (sig)
+[08:10:31] INFO new dwGlowManager = 0x2550500 (sig)
+[08:10:31] INFO new dwLocalPlayerController = 0x252B0C8 (sig)
+[08:10:31] INFO new dwPlantedC4 = 0x24B9B90 (sig)
+[08:10:31] INFO new dwPrediction = 0x2553C40 (sig)
+[08:10:31] INFO new dwSensitivity = 0x2551038 (sig)
+[08:10:31] INFO new dwViewMatrix = 0x2559640 (sig)
+[08:10:31] INFO new dwWeaponC4 = 0x24B83B0 (sig)
+[08:10:31] INFO new dwViewRender = 0x255A008 (sig)
+[08:10:31] INFO new dwViewAngles = 0x256A4B8 (sig+derived)
+[08:10:31] INFO new dwLocalPlayerPawn = 0x2553D38 (sig+derived)
+[08:10:31] INFO new m_iHealth = 0x34C (netvar)
+[08:10:31] INFO new m_iTeamNum = 0x3E7 (netvar)
+[08:10:31] INFO new m_lifeState = 0x354 (netvar)
+[08:10:31] INFO new m_fFlags = 0x3F4 (netvar)
+[08:10:31] INFO new m_vecOrigin = 0x80 (netvar)
+[08:10:31] INFO new m_vecViewOffset = 0xF60 (netvar)
+[08:10:31] INFO new m_vOldOrigin = 0x14A4 (netvar)
+[08:10:31] INFO new m_angEyeAngles = 0x3630 (netvar)
+[08:10:31] INFO new m_hPlayerPawn = 0x92C (netvar)
+[08:10:31] INFO new m_hActiveWeapon = 0x60 (netvar)
+[08:10:31] INFO new m_iItemDefinitionIndex = 0x1BA (netvar)
+[08:10:31] INFO new m_iShotsFired = 0x1EE8 (netvar)
+[08:10:31] INFO new m_bDormant = 0x103 (netvar)
+[08:10:31] INFO new m_pGameSceneNode = 0x330 (netvar)
+[08:10:31] INFO new m_vecAbsOrigin = 0xC8 (netvar)
+[08:10:31] INFO new m_iCompetitiveRanking = 0x8A0 (netvar)
+[08:10:31] INFO new m_iCompetitiveWins = 0x8A4 (netvar)
+[08:10:31] INFO new m_flFlashDuration = 0x1510 (netvar)
+[08:10:31] INFO new m_flFlashMaxAlpha = 0x150C (netvar)
+[08:10:31] INFO new m_szName = 0x720 (netvar)
+[08:10:31] INFO new m_iCrosshairId = 0x370C (netvar)
+[08:10:31] INFO new m_entitySpottedState = 0x1EB8 (netvar)
+[08:10:31] INFO new m_pAimPunchServices = 0x1598 (netvar)
+[08:10:31] INFO new dwSensitivity_sensitivity = 0x58 (constant)
+[08:10:31] INFO new m_modelState = 0x140 (constant)
+[08:10:31] INFO new m_aimPunchAngle = 0x1598 (netvar+chain)
+[08:10:31] INFO new m_bSpotted = 0x1EB8 (netvar+chain)
+[08:10:31] INFO new m_bSpottedByMask = 0x1EB8 (netvar+chain)
+[08:10:31] INFO new m_boneArray = 0x330 (netvar+chain)
+[08:10:31] INFO version 1, 45 changed offsets
+[08:10:31] INFO wrote bin/live.json
+[08:10:31] INFO file: C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/bin/win64/client.dll, 39120536 bytes
+[08:10:31] INFO schema source: C:\Users\Subhan\Desktop\Cs2Cheat\dumper\bin\schema_client.json
+[08:10:32] INFO resolved 45/45 offsets
+[08:10:32] INFO new dwCSGOInput = 0x2569E30 (sig)
+[08:10:32] INFO new dwEntityList = 0x2709010 (sig)
+[08:10:32] INFO new dwGameEntitySystem = 0x2709010 (sig)
+[08:10:32] INFO new dwGameEntitySystem_highestEntityIndex = 0x2120 (sig)
+[08:10:32] INFO new dwGameRules = 0x25537E8 (sig)
+[08:10:32] INFO new dwGlobalVars = 0x2221AB8 (sig)
+[08:10:32] INFO new dwGlowManager = 0x2550500 (sig)
+[08:10:32] INFO new dwLocalPlayerController = 0x252B0C8 (sig)
+[08:10:32] INFO new dwPlantedC4 = 0x24B9B90 (sig)
+[08:10:32] INFO new dwPrediction = 0x2553C40 (sig)
+[08:10:32] INFO new dwSensitivity = 0x2551038 (sig)
+[08:10:32] INFO new dwViewMatrix = 0x2559640 (sig)
+[08:10:32] INFO new dwWeaponC4 = 0x24B83B0 (sig)
+[08:10:32] INFO new dwViewRender = 0x255A008 (sig)
+[08:10:32] INFO new dwViewAngles = 0x256A4B8 (sig+derived)
+[08:10:32] INFO new dwLocalPlayerPawn = 0x2553D38 (sig+derived)
+[08:10:32] INFO new m_iHealth = 0x34C (netvar)
+[08:10:32] INFO new m_iTeamNum = 0x3E7 (netvar)
+[08:10:32] INFO new m_lifeState = 0x354 (netvar)
+[08:10:32] INFO new m_fFlags = 0x3F4 (netvar)
+[08:10:32] INFO new m_vecOrigin = 0x80 (netvar)
+[08:10:32] INFO new m_vecViewOffset = 0xF60 (netvar)
+[08:10:32] INFO new m_vOldOrigin = 0x14A4 (netvar)
+[08:10:32] INFO new m_angEyeAngles = 0x3630 (netvar)
+[08:10:32] INFO new m_hPlayerPawn = 0x92C (netvar)
+[08:10:32] INFO new m_hActiveWeapon = 0x60 (netvar)
+[08:10:32] INFO new m_iItemDefinitionIndex = 0x1BA (netvar)
+[08:10:32] INFO new m_iShotsFired = 0x1EE8 (netvar)
+[08:10:32] INFO new m_bDormant = 0x103 (netvar)
+[08:10:32] INFO new m_pGameSceneNode = 0x330 (netvar)
+[08:10:32] INFO new m_vecAbsOrigin = 0xC8 (netvar)
+[08:10:32] INFO new m_iCompetitiveRanking = 0x8A0 (netvar)
+[08:10:32] INFO new m_iCompetitiveWins = 0x8A4 (netvar)
+[08:10:32] INFO new m_flFlashDuration = 0x1510 (netvar)
+[08:10:32] INFO new m_flFlashMaxAlpha = 0x150C (netvar)
+[08:10:32] INFO new m_szName = 0x720 (netvar)
+[08:10:32] INFO new m_iCrosshairId = 0x370C (netvar)
+[08:10:32] INFO new m_entitySpottedState = 0x1EB8 (netvar)
+[08:10:32] INFO new m_pAimPunchServices = 0x1598 (netvar)
+[08:10:32] INFO new dwSensitivity_sensitivity = 0x58 (constant)
+[08:10:32] INFO new m_modelState = 0x140 (constant)
+[08:10:32] INFO new m_aimPunchAngle = 0x1598 (netvar+chain)
+[08:10:32] INFO new m_bSpotted = 0x1EB8 (netvar+chain)
+[08:10:32] INFO new m_bSpottedByMask = 0x1EB8 (netvar+chain)
+[08:10:32] INFO new m_boneArray = 0x330 (netvar+chain)
+[08:10:32] INFO version 1, 45 changed offsets
+[08:10:32] INFO wrote bin/file.json
+[08:11:02] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:11:03] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:11:03] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:11:03] INFO live schema: 364 classes
+[08:11:03] INFO schema source: live schema system
+[08:11:03] INFO resolved 45/45 offsets
+[08:11:03] INFO version 6, 0 changed offsets
+[08:11:03] INFO wrote bin/config.json
+[08:11:03] INFO wrote C:/Users/Subhan/Desktop/Cs2Cheat/bin/offsets.ini
+[08:21:57] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[08:21:57] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:21:57] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:21:57] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:21:57] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:21:57] INFO live schema: 364 classes
+[08:21:57] INFO schema source: live schema system
+[08:21:58] INFO resolved 45/45 offsets
+[08:21:58] INFO version 7, 0 changed offsets
+[08:21:58] INFO wrote C:\Users\Subhan\Desktop\Cs2Cheat\bin\..\dumper\bin\config.json
+[08:21:58] INFO watch: offsets updated (exit 0)
+[08:22:13] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:22:28] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:22:43] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:22:58] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:23:29] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[08:23:29] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:23:29] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:23:29] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:23:29] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:23:30] INFO live schema: 364 classes
+[08:23:30] INFO schema source: live schema system
+[08:23:30] INFO resolved 45/45 offsets
+[08:23:30] INFO version 8, 0 changed offsets
+[08:23:30] INFO wrote C:\Users\Subhan\Desktop\Cs2Cheat\bin\..\dumper\bin\config.json
+[08:23:30] INFO watch: offsets updated (exit 0)
+[08:24:56] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[08:24:56] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:24:56] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:24:56] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:24:56] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:24:56] INFO live schema: 364 classes
+[08:24:56] INFO schema source: live schema system
+[08:24:56] INFO resolved 45/45 offsets
+[08:24:56] INFO version 9, 0 changed offsets
+[08:24:56] INFO wrote C:\Users\Subhan\Desktop\Cs2Cheat\bin\..\dumper\bin\config.json
+[08:24:56] INFO watch: offsets updated (exit 0)
+[08:27:25] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[08:27:25] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:25] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:25] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:27:25] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:25] INFO live schema: 364 classes
+[08:27:25] INFO schema source: live schema system
+[08:27:26] INFO resolved 45/45 offsets
+[08:27:26] INFO version 10, 0 changed offsets
+[08:27:26] INFO wrote C:\Users\Subhan\Desktop\Cs2Cheat\bin\..\dumper\bin\config.json
+[08:27:26] INFO watch: offsets updated (exit 0)
+[08:27:40] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[08:27:40] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:40] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:40] INFO live: image @ 0x7FFF065E0000, 43556864 bytes
+[08:27:40] WARN SeDebugPrivilege not granted (run elevated for live mode)
+[08:27:40] INFO live schema: 364 classes
+[08:27:40] INFO schema source: live schema system
+[08:27:41] INFO resolved 45/45 offsets
+[08:27:41] INFO up to date (game_build d4b28a9905633419...), config untouched
+[08:27:41] INFO watch: offsets updated (exit 0)
+[08:28:18] INFO watch: another watcher is already running — exiting
+[15:27:22] INFO watch: polling every 15s for build changes, ini C:\Users\Subhan\Desktop\Cs2Cheat\bin\offsets.ini
+[15:27:22] INFO live: image @ 0x7FFE6E500000, 43556864 bytes
+[15:27:22] INFO live schema: 364 classes
+[15:27:22] INFO schema source: live schema system
+[15:27:22] INFO resolved 45/45 offsets
+[15:27:22] INFO up to date (game_build d4b28a9905633419...), config untouched
+[15:27:22] INFO watch: offsets updated (exit 0)
+[15:31:40] INFO watch: another watcher is already running — exiting
+[16:01:55] WARN watch: process not found (see --process) — waiting

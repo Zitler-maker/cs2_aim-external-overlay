@@ -1,0 +1,42 @@
+main.cpp
+src\main.cpp(1): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+src\main.cpp(1): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+config.cpp
+src\config.cpp(43): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mem.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+game.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+overlay.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\overlay.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\overlay.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+imgui.cpp
+imgui_draw.cpp
+imgui_tables.cpp
+imgui_widgets.cpp
+imgui_impl_win32.cpp
+imgui_impl_dx11.cpp
+Создание кода...
+main.cpp
+src\main.cpp(1): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+src\main.cpp(1): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+config.cpp
+src\config.cpp(43): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+mem.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+game.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\mem.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+overlay.cpp
+C:\Users\Subhan\Desktop\ch\cs2\src\overlay.h(2): warning C4005: WIN32_LEAN_AND_MEAN: изменение макроопределения
+C:\Users\Subhan\Desktop\ch\cs2\src\overlay.h(2): note: "WIN32_LEAN_AND_MEAN" ранее объявлен в командной строке
+imgui.cpp
+imgui_draw.cpp
+imgui_tables.cpp
+imgui_widgets.cpp
+imgui_impl_win32.cpp
+imgui_impl_dx11.cpp
+Создание кода...

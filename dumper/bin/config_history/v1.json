@@ -1,0 +1,386 @@
+{
+  "game_build": "d4b28a990563341971a7e34b0548bde4b7cafde07176ba8ed3047668a22fdf73",
+  "offsets": {
+    "dwCSGOInput": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488905${'} 0f57c0 0f1105",
+      "source": "sig",
+      "value": "0x2569E30"
+    },
+    "dwEntityList": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "48890d${'} e9${} cc",
+      "source": "sig",
+      "value": "0x2709010"
+    },
+    "dwGameEntitySystem": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488b1d${'} 48891d[4] 4c63b3",
+      "source": "sig",
+      "value": "0x2709010"
+    },
+    "dwGameEntitySystem_highestEntityIndex": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "member_offset",
+      "sig": "ff81u4 4885d2",
+      "source": "sig",
+      "value": "0x2120"
+    },
+    "dwGameRules": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "f6c1010f85${} 4c8b05${'} 4d85",
+      "source": "sig",
+      "value": "0x25537E8"
+    },
+    "dwGlobalVars": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488915${'} 488942",
+      "source": "sig",
+      "value": "0x2221AB8"
+    },
+    "dwGlowManager": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488b05${'} c3 cccccccccccccccc 8b41",
+      "source": "sig",
+      "value": "0x2550500"
+    },
+    "dwLocalPlayerController": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488b05${'} 4189be",
+      "source": "sig",
+      "value": "0x252B0C8"
+    },
+    "dwLocalPlayerPawn": {
+      "confidence": 1,
+      "module": "client.dll",
+      "note": "local pawn pointer, anchored to Prediction",
+      "section": ".data",
+      "sig": "4c39b6u4 74? 4488be",
+      "source": "sig+derived",
+      "value": "0x2553D38"
+    },
+    "dwPlantedC4": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488b1d${'} 4532f6",
+      "source": "sig",
+      "value": "0x24B9B90"
+    },
+    "dwPrediction": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488d05${'} c3 cccccccccccccccc 405356 4154",
+      "source": "sig",
+      "value": "0x2553C40"
+    },
+    "dwSensitivity": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488d0d${[8]'} 0f57c90f28f0",
+      "source": "sig",
+      "value": "0x2551038"
+    },
+    "dwSensitivity_sensitivity": {
+      "confidence": 1,
+      "module": "client.dll",
+      "note": "CInput::m_flSensitivity, stable member offset",
+      "section": "const",
+      "source": "constant",
+      "value": "0x58"
+    },
+    "dwViewAngles": {
+      "confidence": 1,
+      "module": "client.dll",
+      "note": "view angle vector, anchored to CSGOInput",
+      "section": ".data",
+      "sig": "f2420f108428u4",
+      "source": "sig+derived",
+      "value": "0x256A4B8"
+    },
+    "dwViewMatrix": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488d0d${'} 48c1e006",
+      "source": "sig",
+      "value": "0x2559640"
+    },
+    "dwViewRender": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488905${'} 488bc8 4885c0",
+      "source": "sig",
+      "value": "0x255A008"
+    },
+    "dwWeaponC4": {
+      "confidence": 1,
+      "module": "client.dll",
+      "section": ".data",
+      "sig": "488b15${'} 488b5c24? ffc0 8905${} 488bc6 488934ea 80be",
+      "source": "sig",
+      "value": "0x24B83B0"
+    },
+    "m_aimPunchAngle": {
+      "chain": [
+        "0x50"
+      ],
+      "class": "C_CSPlayerPawn",
+      "confidence": 0.59999999999999998,
+      "module": "client.dll",
+      "note": "CCSPlayer_AimPunchServices::m_predictableBaseAngle",
+      "section": "class_schema",
+      "source": "netvar+chain",
+      "value": "0x1598"
+    },
+    "m_angEyeAngles": {
+      "class": "C_CSPlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x3630"
+    },
+    "m_bDormant": {
+      "class": "CGameSceneNode",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x103"
+    },
+    "m_bSpotted": {
+      "chain": [
+        "0x8"
+      ],
+      "class": "C_CSPlayerPawn",
+      "confidence": 0.80000000000000004,
+      "module": "client.dll",
+      "note": "EntitySpottedState_t::m_bSpotted",
+      "section": "class_schema",
+      "source": "netvar+chain",
+      "value": "0x1EB8"
+    },
+    "m_bSpottedByMask": {
+      "chain": [
+        "0xC"
+      ],
+      "class": "C_CSPlayerPawn",
+      "confidence": 0.80000000000000004,
+      "module": "client.dll",
+      "note": "EntitySpottedState_t::m_bSpottedByMask",
+      "section": "class_schema",
+      "source": "netvar+chain",
+      "value": "0x1EB8"
+    },
+    "m_boneArray": {
+      "chain": [
+        "0x140",
+        "0x80"
+      ],
+      "class": "C_BaseEntity",
+      "confidence": 0.5,
+      "module": "client.dll",
+      "note": "CModelState::m_pBoneArray (runtime layout constant)",
+      "section": "class_schema",
+      "source": "netvar+chain",
+      "value": "0x330"
+    },
+    "m_entitySpottedState": {
+      "class": "C_CSPlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x1EB8"
+    },
+    "m_fFlags": {
+      "class": "C_BaseEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x3F4"
+    },
+    "m_flFlashDuration": {
+      "class": "C_CSPlayerPawnBase",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x1510"
+    },
+    "m_flFlashMaxAlpha": {
+      "class": "C_CSPlayerPawnBase",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x150C"
+    },
+    "m_hActiveWeapon": {
+      "class": "CPlayer_WeaponServices",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x60"
+    },
+    "m_hPlayerPawn": {
+      "class": "CCSPlayerController",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x92C"
+    },
+    "m_iCompetitiveRanking": {
+      "class": "CCSPlayerController",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x8A0"
+    },
+    "m_iCompetitiveWins": {
+      "class": "CCSPlayerController",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x8A4"
+    },
+    "m_iCrosshairId": {
+      "class": "C_CSPlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x370C"
+    },
+    "m_iHealth": {
+      "class": "C_BaseEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x34C"
+    },
+    "m_iItemDefinitionIndex": {
+      "class": "C_EconItemView",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x1BA"
+    },
+    "m_iShotsFired": {
+      "class": "C_CSPlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x1EE8"
+    },
+    "m_iTeamNum": {
+      "class": "C_BaseEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x3E7"
+    },
+    "m_lifeState": {
+      "class": "C_BaseEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x354"
+    },
+    "m_modelState": {
+      "confidence": 0.5,
+      "module": "client.dll",
+      "note": "CGameSceneNode::m_modelState, runtime layout constant",
+      "section": "const",
+      "source": "constant",
+      "value": "0x140"
+    },
+    "m_pAimPunchServices": {
+      "class": "C_CSPlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x1598"
+    },
+    "m_pGameSceneNode": {
+      "class": "C_BaseEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x330"
+    },
+    "m_szName": {
+      "class": "CCSWeaponBaseVData",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x720"
+    },
+    "m_vOldOrigin": {
+      "class": "C_BasePlayerPawn",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x14A4"
+    },
+    "m_vecAbsOrigin": {
+      "class": "CGameSceneNode",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0xC8"
+    },
+    "m_vecOrigin": {
+      "class": "CGameSceneNode",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0x80"
+    },
+    "m_vecViewOffset": {
+      "class": "C_BaseModelEntity",
+      "confidence": 1,
+      "module": "client.dll",
+      "section": "class_schema",
+      "source": "netvar",
+      "value": "0xF60"
+    }
+  },
+  "timestamp": "2026-11-17T04:27:20Z",
+  "version": 1
+}
